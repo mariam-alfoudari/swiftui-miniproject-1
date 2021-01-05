@@ -13,6 +13,8 @@
 		3983F800259EAD1200889173 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3983F7FF259EAD1200889173 /* Preview Assets.xcassets */; };
 		3989E82025A236D100559090 /* Bicycle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3989E81F25A236D100559090 /* Bicycle.swift */; };
 		3989E82325A24A6200559090 /* BicycleDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3989E82225A24A6200559090 /* BicycleDetailView.swift */; };
+		3989E82725A280C000559090 /* PaymentDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3989E82625A280C000559090 /* PaymentDetailView.swift */; };
+		3989E82C25A36AC600559090 /* Payment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3989E82B25A36AC600559090 /* Payment.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		3983F801259EAD1200889173 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3989E81F25A236D100559090 /* Bicycle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bicycle.swift; sourceTree = "<group>"; };
 		3989E82225A24A6200559090 /* BicycleDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BicycleDetailView.swift; sourceTree = "<group>"; };
+		3989E82625A280C000559090 /* PaymentDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaymentDetailView.swift; sourceTree = "<group>"; };
+		3989E82B25A36AC600559090 /* Payment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Payment.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				3983F7FA259EAD1000889173 /* ContentView.swift */,
 				3989E81F25A236D100559090 /* Bicycle.swift */,
 				3989E82225A24A6200559090 /* BicycleDetailView.swift */,
+				3989E82625A280C000559090 /* PaymentDetailView.swift */,
+				3989E82B25A36AC600559090 /* Payment.swift */,
 				3983F7FC259EAD1200889173 /* Assets.xcassets */,
 				3983F801259EAD1200889173 /* Info.plist */,
 				3983F7FE259EAD1200889173 /* Preview Content */,
@@ -146,7 +152,9 @@
 			files = (
 				3989E82025A236D100559090 /* Bicycle.swift in Sources */,
 				3983F7FB259EAD1000889173 /* ContentView.swift in Sources */,
+				3989E82725A280C000559090 /* PaymentDetailView.swift in Sources */,
 				3983F7F9259EAD1000889173 /* mini_project_swiftuiApp.swift in Sources */,
+				3989E82C25A36AC600559090 /* Payment.swift in Sources */,
 				3989E82325A24A6200559090 /* BicycleDetailView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
